@@ -1,0 +1,8 @@
+.idea/
+out/
+desktop.ini
+out.log
+*.iml
+*.info
+*.jrtc
+*.properties
